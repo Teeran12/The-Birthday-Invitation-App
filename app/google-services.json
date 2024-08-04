@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679142992223",
+    "project_id": "birthdayinvitation-82ad9",
+    "storage_bucket": "birthdayinvitation-82ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679142992223:android:96c4cfcdac37efaf572eea",
+        "android_client_info": {
+          "package_name": "com.example.birthdayinvitation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679142992223-ml75b0k75j3fro9qfb5r9hj792pm42vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UxsrD5ci1PBEilN-ot9RMs0fUJXRL0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679142992223-ml75b0k75j3fro9qfb5r9hj792pm42vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

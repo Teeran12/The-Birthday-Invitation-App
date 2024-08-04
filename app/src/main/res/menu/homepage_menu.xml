@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profile"
+    android:title="@string/profile1"
+    android:icon="@drawable/profile"/>
+
+    <item android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/theme"
+        android:title="@string/events_info"
+        android:icon="@drawable/event"/>
+
+    <item android:id="@+id/activity"
+        android:title="@string/activities"
+        android:icon="@drawable/activities"/>
+
+    <item android:id="@+id/reserve"
+        android:title="@string/reservation"
+        android:icon="@drawable/reserve"/>
+
+    <item android:id="@+id/feedback"
+        android:title="@string/feedback"
+        android:icon="@drawable/feedback"/>
+
+    <item android:id="@+id/contact"
+        android:title="@string/contact_us"
+        android:icon="@drawable/contact"/>
+
+    <item android:id="@+id/logout"
+        android:title="@string/logout"
+        android:icon="@drawable/logout"/>
+
+</menu>
