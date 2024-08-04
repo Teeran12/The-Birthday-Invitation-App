@@ -1,0 +1,2 @@
+# The-Birthday-Invitation-App
+This project is about a birthday party invitation application. The application aims fornusers to use an advance birthday party invitation instead of by giving an invitation card. We create a complete application based on users' requirements about the party. The aim is to develop a mobile application that allows users and guests to easily access and navigatethrough various features and information related to the birthday party.
